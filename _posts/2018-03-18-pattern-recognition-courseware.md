@@ -6,8 +6,8 @@ date: 2018-03-18              # 时间
 author: NickShawn                      # 作者
 header-img: img/pattern-recognition.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
-tags: 
-      - 学习
+tags:
+    - 学习
 ---
 
 ## Hey
