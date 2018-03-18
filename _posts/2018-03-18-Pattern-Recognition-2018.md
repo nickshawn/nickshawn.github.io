@@ -1,21 +1,19 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      My First Post               # 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2017-02-06              # 时间
-author:     BY                      # 作者
+title:      模式识别（课件）               # 标题 
+subtitle:   含PPT及其他所有相关材料  #副标题
+date:       2018-03-18              # 时间
+author:     nickshawn                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - 生活
+    - 学习
 ---
 
 ## Hey
->这是我的第一篇博客。
+>这是模式识别课程。
 
-进入你的博客主页，新的文章将会出现在你的主页上.
+你是模式识别之路从这里起航.
 
-作者：BYQiu
-链接：https://www.jianshu.com/p/e68fba58f75c
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+作者：Nick Shawn
+链接：https://nickshawn.github.io
