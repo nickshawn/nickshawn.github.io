@@ -4,7 +4,7 @@ title: 模式识别课程               # 标题
 subtitle: 含PPT及其他所有相关材料  #副标题
 date: 2018-03-18              # 时间
 author: NickShawn                      # 作者
-header-img: img/pattern-recognition.jpg    #这篇文章标题背景图片
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:
     - 学习
@@ -14,6 +14,7 @@ tags:
 >这是模式识别课程。
 
 你的模式识别之路从这里起航.
+
 ***
 
 ## 更新
@@ -66,12 +67,12 @@ tags:
     </thead>
     <tbody>
         <tr>
-            <td><a href="files/chapter1.pdf">绪论</a></td>
+            <td><a href="http://home.ustc.edu.cn/~hizhangp/pr/files/chapter1.pdf">绪论</a></td>
             <td>/</td>
             <td>/</td>
         </tr>
         <tr>
-            <td rowspan="1" style="vertical-align:middle"><a href="files/chapter2.pdf">统计模式识别中的几何方法</a></td>
+            <td rowspan="1" style="vertical-align:middle"><a href="http://home.ustc.edu.cn/~hizhangp/pr/files/chapter2.pdf">统计模式识别中的几何方法</a></td>
             <td rowspan="1" style="vertical-align:middle">第二章习题</td>
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
