@@ -25,7 +25,7 @@ tags:
 <table class="table table-striped table-bordered text-center">
     <tbody>
         <tr>
-            <td width="40%">课程名称：模式识别</a>
+            <td width="40%">课程名称：模式识别
             </td>
             <td>教师及助教</td>
         </tr>
