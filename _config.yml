@@ -1,7 +1,7 @@
 # Site settings
 title: 行在旅途
 SEOTitle: 我不坏的博客 | NickShawn Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/lxx1.jpg  #post-bg-desk.jpg
 email: nickshawn@126.com
 description: "一个人的旅行."
 keyword: "Nick Shawn, 我不坏的博客, DeepLearning, AI"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/NickShawn/NickShawn.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "半生憧憬，余生旅途"
-sidebar-avatar: /img/lxx1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/yn3.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
