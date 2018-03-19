@@ -22,38 +22,41 @@ tags:
 
 ## 课程信息
 <table class="table table-striped table-bordered text-center">
-                <tbody>
-                    <tr>
-                        <td width="40%">课程名称：模式识别</a>
-                        </td>
-                        <td>教师及助教</td>
-                    </tr>
-                    <tr>
-                        <td>课程编号：CNY520501</td>
-                        <td>汪增福教授：<a title="" href="mailto:zfwang@ustc.edu.cn">zfwang@ustc.edu.cn</a></td>
-                    </tr>
-                    <tr>
-                        <td>上课教室：3B201</td>
-                        <td>张海峰助教：<a title="" href="mailto:hfz@ustc.edu.cn">hfz@ustc.edu.cn</a></td>
-                    </tr>
-                    <tr>
-                        <td>上课时间：周二 09:45，周五 15:55</td>
-                        <td>谢晓路助教：<a title="" href="mailto:xxxl@mail.ustc.edu.cn">xxxl@mail.ustc.edu.cn</a></td>
-                    </tr>
-                    <tr>
-                        <td>课程学分：3.5</td>
-                        <td>李佳助教：<a title="" href="mailto:jialee@mail.ustc.edu.cn">jialee@mail.ustc.edu.cn</a></td>
-                    </tr>
-                    <tr>
-                        <td>参考教材：<a title="模式识别" href="http://item.jd.com/10339634.html" target="_blank">模式识别</a>[M]，汪增福著</td>
-                        <td>肖磊助教：<a title="" href="mailto:nickxiao@mail.ustc.edu.cn">nickxiao@mail.ustc.edu.cn</a></td>
-                    </tr>
-                </tbody>
-            </table>
+    <tbody>
+        <tr>
+            <td width="40%">课程名称：模式识别</a>
+            </td>
+            <td>教师及助教</td>
+        </tr>
+        <tr>
+            <td>课程编号：CNY520501</td>
+            <td>汪增福教授：<a title="" href="mailto:zfwang@ustc.edu.cn">zfwang@ustc.edu.cn</a></td>
+        </tr>
+        <tr>
+            <td>上课教室：3B201</td>
+            <td>张海峰助教：<a title="" href="mailto:hfz@ustc.edu.cn">hfz@ustc.edu.cn</a></td>
+        </tr>
+        <tr>
+            <td>上课时间：周二 09:45，周五 15:55</td>
+            <td>谢晓路助教：<a title="" href="mailto:xxxl@mail.ustc.edu.cn">xxxl@mail.ustc.edu.cn</a></td>
+        </tr>
+        <tr>
+            <td>课程学分：3.5</td>
+            <td>李佳助教：<a title="" href="mailto:jialee@mail.ustc.edu.cn">jialee@mail.ustc.edu.cn</a></td>
+        </tr>
+        <tr>
+            <td>参考教材：<a title="模式识别" href="http://item.jd.com/10339634.html" target="_blank">模式识别</a>[M]，汪增福著</td>
+            <td>肖磊助教：<a title="" href="mailto:nickxiao@mail.ustc.edu.cn">nickxiao@mail.ustc.edu.cn</a></td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 课件与作业
-<table class="table table-striped table-bordered text-center" >
+1. 补交作业或需答疑的请至：`科技实验楼西楼316`
+2. 每一章的课件会在该章全部讲完后上传
+3. 每次作业截止时间为一周，请及时交给助教
+<table class="table table-hover table-bordered text-center" >
     <thead>
         <tr class="active">
             <td width="25%"><span style="font-weight: bold;">课件</span></td>
