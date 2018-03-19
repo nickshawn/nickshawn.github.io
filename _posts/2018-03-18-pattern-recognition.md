@@ -1,6 +1,6 @@
 ---
 layout: post                    # 使用的布局（不需要改）
-title: 模式识别（课件）               # 标题 
+title: 模式识别课程               # 标题 
 subtitle: 含PPT及其他所有相关材料  #副标题
 date: 2018-03-18              # 时间
 author: NickShawn                      # 作者
