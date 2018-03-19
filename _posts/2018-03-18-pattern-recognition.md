@@ -34,7 +34,7 @@ tags:
         </tr>
         <tr>
             <td>上课教室：3B201</td>
-            <td>张海峰助教：<a title="" href="mailto:hfz@ustc.edu.cn">hfz@ustc.edu.cn</a></td>
+            <td>张海峰助教：<a title="" href="mailto:hfz@ustc.edu.cn">hfz@mail.ustc.edu.cn</a></td>
         </tr>
         <tr>
             <td>上课时间：周二 09:45，周五 15:55</td>
@@ -55,7 +55,7 @@ tags:
 ## 课件与作业
 1. 补交作业或需答疑的请至：`科技实验楼西楼316`
 2. 每一章的课件会在该章全部讲完后上传
-3. 每次作业截止时间为一周，请及时交给助教
+3. 每次作业截止时间为一周（e.g. 下周同一时间）
 <table class="table table-hover table-bordered text-center" >
     <thead>
         <tr class="active">
@@ -81,7 +81,7 @@ tags:
             <td rowspan="2" style="vertical-align:middle">第三章+第四章</td>
         </tr>
         <tr>
-            <td><a href="files/chapter4.pdf">分类器的错误率</a></td>
+            <td>分类器的错误率</td>
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle">统计模式识别中的聚类方法</td>
