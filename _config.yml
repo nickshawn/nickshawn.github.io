@@ -1,9 +1,9 @@
 # Site settings
-title: 行在旅途
-SEOTitle: 我不坏的博客 | NickShawn Blog
+title: NS Blog
+SEOTitle: 我不坏的博客 | N.Shawn Blog
 header-img: img/lxx2.jpg  #post-bg-desk.jpg
 email: nickshawn@foxmail.com
-description: "一个人的旅行."
+description: "Nothing."
 keyword: "Nick Shawn, 我不坏的博客, DeepLearning, AI"
 url: "http://NickShawn.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
