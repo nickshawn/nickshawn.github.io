@@ -67,7 +67,7 @@ tags:
     </thead>
     <tbody>
         <tr>
-            <td><a href="http://home.ustc.edu.cn/~hizhangp/pr/files/chapter1.pdf">绪论</a></td>
+            <td><a href="https://nickshawn.github.io/files/chapter1.pdf">绪论</a></td>
             <td>/</td>
             <td>/</td>
         </tr>
