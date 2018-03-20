@@ -98,4 +98,4 @@ tags:
 </table>
 
 
-> 本文首次发布于 [行在旅途](http://nickshawn.github.io), 作者 [@我不坏(Nick Shawn)](http://github.com/NickShawn) ,转载请保留原文链接.
+> 本文首次发布于 [NS Blog](http://nickshawn.github.io), 作者 [@我不坏(Nick Shawn)](http://github.com/NickShawn), 请勿转载.
