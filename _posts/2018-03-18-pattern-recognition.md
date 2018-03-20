@@ -72,7 +72,7 @@ tags:
             <td>/</td>
         </tr>
         <tr>
-            <td rowspan="1" style="vertical-align:middle"><a href="http://home.ustc.edu.cn/~hizhangp/pr/files/chapter2.pdf">统计模式识别中的几何方法</a></td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/chapter2.pdf">统计模式识别中的几何方法</a></td>
             <td rowspan="1" style="vertical-align:middle">第二章习题</td>
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
