@@ -11,7 +11,7 @@ github_repo: "https://github.com/NickShawn/NickShawn.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我想，一个背包，一张车票，一个人，走向远方，只为在未知的途中遇见未知的自己"
+sidebar-about-description: "我想，一个背包，一张车票，一个人，走向远方，在未知的途中，遇见未知的自己"
 sidebar-avatar: /img/yn5.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
