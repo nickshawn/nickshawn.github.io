@@ -67,12 +67,12 @@ tags:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://nickshawn.github.io/files/chapter1.pdf">绪论</a></td>
+            <td><a href="https://nickshawn.github.io/files/chapter1.pdf" target="_blank" rel="nofollow">绪论</a></td>
             <td>/</td>
             <td>/</td>
         </tr>
         <tr>
-            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/chapter2.pdf">统计模式识别中的几何方法</a></td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/chapter2.pdf" target="_blank" rel="nofollow">统计模式识别中的几何方法</a></td>
             <td rowspan="1" style="vertical-align:middle">第二章习题</td>
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
