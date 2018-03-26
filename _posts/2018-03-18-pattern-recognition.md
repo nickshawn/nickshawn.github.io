@@ -18,6 +18,7 @@ tags:
 ***
 
 ## 更新
+* 2018-03-26: 上传第二章作业
 * 2018-03-19：上传第一章及第二章课件
 
 
@@ -73,7 +74,7 @@ tags:
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/chapter2.pdf" target="_blank" rel="nofollow">统计模式识别中的几何方法</a></td>
-            <td rowspan="1" style="vertical-align:middle">第二章习题</td>
+            <td rowspan="1" style="vertical-align:middle"><a href="nickshawn.github.io/files/homework2.pdf" target="_blank" rel="nofollow">第二章习题</a></td>
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
         <tr>
