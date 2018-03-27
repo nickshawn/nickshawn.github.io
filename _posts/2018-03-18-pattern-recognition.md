@@ -74,7 +74,7 @@ tags:
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/chapter2.pdf" target="_blank" rel="nofollow">统计模式识别中的几何方法</a></td>
-            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/作业2.pdf" target="_blank" rel="nofollow">第二章习题</a><br><a href="https://nickshawn.github.io/files/homework2.pdf" target="_blank" rel="nofollow">Homework_English_Version</a></td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.github.io/files/作业2.pdf" target="_blank" rel="nofollow">第二章习题</a><br><a href="https://nickshawn.github.io/files/homework2.pdf" target="_blank" rel="nofollow">English_Version</a></td>
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
         <tr>
