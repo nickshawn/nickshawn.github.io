@@ -78,7 +78,7 @@ tags:
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
         <tr>
-            <td rowspan="1" style="vertical-align:middle">统计模式识别中的概率方法</td>
+            <td rowspan="1" style="vertical-align:middle"><a href="nickshawn.top/files/chapter3.pdf" target="_blank" rel="nofollow">统计模式识别中的概率方法</a></td>
             <td rowspan="2" style="vertical-align:middle">第三章+第四章习题</td>
             <td rowspan="2" style="vertical-align:middle">第三章+第四章</td>
         </tr>
