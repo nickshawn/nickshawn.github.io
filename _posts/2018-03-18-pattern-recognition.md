@@ -18,7 +18,7 @@ tags:
 ***
 
 ## 更新
-* 2018-04-11：上传<a href="http://item.jd.com/10339634.html" target="_blank">课程大作业</a>
+* 2018-04-11：上传<a href="http://nickshawn.github.io/files/大作业.pdf" target="_blank">课程大作业</a>
 * 2018-04-11：上传所有章节课件
 * 2018-03-26：上传第二章作业
 * 2018-03-19：上传第一章及第二章课件
