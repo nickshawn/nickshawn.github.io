@@ -77,12 +77,12 @@ tags:
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter2.pdf" target="_blank" rel="nofollow">统计模式识别中的几何方法</a></td>
-            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业2.pdf" target="_blank" rel="nofollow">第二章习题</a><br><a href="https://nickshawn.top/files/homework2.pdf" target="_blank" rel="nofollow">English_Version</a></td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业2.pdf" target="_blank" rel="nofollow">第二章</a><br><a href="https://nickshawn.top/files/homework2.pdf" target="_blank" rel="nofollow">English_Version</a></td>
             <td rowspan="1" style="vertical-align:middle">第二章</td>
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter3.pdf" target="_blank" rel="nofollow">统计模式识别中的概率方法</a></td>
-            <td rowspan="2" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业3+4.pdf" target="_blank" rel="nofollow">第三章+第四章习题</a><br><a href="https://nickshawn.top/files/homework3+4.pdf" target="_blank" rel="nofollow">English_Version</a></td>
+            <td rowspan="2" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业3+4.pdf" target="_blank" rel="nofollow">第三章+第四章</a><br><a href="https://nickshawn.top/files/homework3+4.pdf" target="_blank" rel="nofollow">English_Version</a></td>
             <td rowspan="2" style="vertical-align:middle">第三章+第四章</td>
         </tr>
         <tr>
@@ -90,12 +90,12 @@ tags:
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter5.pdf" target="_blank" rel="nofollow">统计模式识别中的聚类方法</a></td>
-            <td rowspan="1" style="vertical-align:middle">第五章习题</td>
+            <td rowspan="1" style="vertical-align:middle">第五章</td>
             <td rowspan="1" style="vertical-align:middle">第五章</td>
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter6.pdf" target="_blank" rel="nofollow">结构模式识别中的句法方法</a></td>
-            <td rowspan="1" style="vertical-align:middle">第六章习题</td>
+            <td rowspan="1" style="vertical-align:middle">第六章</td>
             <td rowspan="1" style="vertical-align:middle">第六章</td>
         </tr>
     </tbody>
