@@ -18,6 +18,7 @@ tags:
 ***
 
 ## 更新
+* 2018-04-24：上传第五章作业
 * 2018-04-11：上传第三、四章作业
 * 2018-04-11：上传<a href="http://nickshawn.github.io/files/大作业.pdf" target="_blank">课程大作业</a>
 * 2018-04-11：上传所有章节课件
@@ -90,7 +91,8 @@ tags:
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter5.pdf" target="_blank" rel="nofollow">统计模式识别中的聚类方法</a></td>
-            <td rowspan="1" style="vertical-align:middle">第五章</td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业5.pdf" target="_blank" rel="nofollow">第五章</a><br><a href="https://nickshawn.top/files/homework5.pdf" target="_blank"
+rel="nofollow">English_Version</a></td>
             <td rowspan="1" style="vertical-align:middle">第五章</td>
         </tr>
         <tr>
