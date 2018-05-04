@@ -18,6 +18,7 @@ tags:
 ***
 
 ## 更新
+* 2018-05-04：上传<a href="http://nickshawn.top/files/模式识别大作业分组情况.xls" target="_blank">模式识别大作业分组情况</a>
 * 2018-04-24：上传第五章作业
 * 2018-04-11：上传第三、四章作业
 * 2018-04-11：上传<a href="http://nickshawn.github.io/files/大作业.pdf" target="_blank">课程大作业</a>
