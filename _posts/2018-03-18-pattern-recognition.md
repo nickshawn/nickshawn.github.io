@@ -85,7 +85,7 @@ tags:
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter3.pdf" target="_blank" rel="nofollow">统计模式识别中的概率方法</a></td>
             <td rowspan="2" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业3+4.pdf" target="_blank" rel="nofollow">第三章+第四章</a><br><a href="https://nickshawn.top/files/homework3+4.pdf" target="_blank" rel="nofollow">English_Version</a></td>
-            <td rowspan="2" style="vertical-align:middle">第三章+第四章</td>
+            <td rowspan="2" style="vertical-align:middle"><a href="https://nickshawn.top/files/答案3+4.pdf" target="_blank" rel="nofollow">第三章+第四章</a></td>
         </tr>
         <tr>
             <td><a href="https://nickshawn.top/files/chapter4.pdf" target="_blank" rel="nofollow">分类器的错误率</a></td>
