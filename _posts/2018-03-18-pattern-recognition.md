@@ -94,7 +94,7 @@ tags:
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter5.pdf" target="_blank" rel="nofollow">统计模式识别中的聚类方法</a></td>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业5.pdf" target="_blank" rel="nofollow">第五章</a><br><a href="https://nickshawn.top/files/homework5.pdf" target="_blank"
 rel="nofollow">English_Version</a></td>
-            <td rowspan="1" style="vertical-align:middle">第五章</td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/答案5.pdf" target="_blank">第五章</a><br><a href="https://nickshawn.top/files/answer5.pdf" target="_blank">English_Version</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter6.pdf" target="_blank" rel="nofollow">结构模式识别中的句法方法</a></td>
