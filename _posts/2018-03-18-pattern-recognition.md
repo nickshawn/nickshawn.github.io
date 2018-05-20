@@ -18,6 +18,7 @@ tags:
 ***
 
 ## 更新
+* 2018-05-20：上传[模式识别宣讲推荐名单](http://nickshawn.top/files/模式识别宣讲推荐.pdf)
 * 2018-05-14：上传[统计模式识别小结及拓展](http://nickshawn.top/files/统计模式识别小结及拓展.pdf)、[2018春学期期末安排](http://nickshawn.top/files/2018春学期期末安排.pdf)
 * 2018-05-13：上传第六章作业，预定于5月22日（宣讲课）提交
 * 2018-05-04：上传<a href="http://nickshawn.top/files/模式识别大作业分组情况.xls" target="_blank">模式识别大作业分组情况</a>
