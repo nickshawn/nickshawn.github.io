@@ -121,7 +121,7 @@ rel="nofollow">English_Version</a></td>
         <tr>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/chapter6.pdf" target="_blank" rel="nofollow">结构模式识别中的句法方法</a></td>
             <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/作业6.pdf" target="_blank">第六章</a><br><a href="https://nickshawn.top/files/homework6.pdf" target="_blank">English_Version</a></td>
-            <td rowspan="1" style="vertical-align:middle">第六章</td>
+            <td rowspan="1" style="vertical-align:middle"><a href="https://nickshawn.top/files/答案6.pdf" target="_blank">第六章</a></td>
         </tr>
     </tbody>
 </table>
